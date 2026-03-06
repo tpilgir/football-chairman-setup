@@ -7,7 +7,7 @@ Bu repo sadece paylasilabilir Windows kurulum paketini icerir.
 - Version: `0.12.0-beta1`
 - Platform: `Windows`
 - SHA256: `82ccd13a8a61ec9285f5777b9b414a773cd8719a1cd58b765d541356b797f324`
-- Updated (UTC): `2026-03-06T15:37:55Z`
+- Updated (UTC): `2026-03-06T15:44:51Z`
 
 ## Indirme
 
