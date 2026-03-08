@@ -4,16 +4,17 @@ Bu repo sadece paylasilabilir Windows kurulum paketini icerir.
 
 ## Guncel Surum
 
-- Version: 0.29.0
-- Platform: Windows
-- SHA256: b1e9c591157ed1cf00acd117c473a80e98093ecd2885df7f2542ab6ce079d35a
-- Updated (UTC): 2026-03-08T20:29:41Z
+- Version: `0.30.0`
+- Platform: `Windows`
+- SHA256: `7e5b0fdac78dc16254886b2e97227a823b0d7168d09740453ca9dc434c0fb6f0`
+- Updated (UTC): `2026-03-08T21:12:46Z`
 
 ## Indirme
 
-- Latest setup: https://github.com/tpilgir/football-chairman-setup/raw/main/FootballChairmanDesktopSetup.exe
+- Latest setup: [FootballChairmanDesktopSetup.exe](https://github.com/tpilgir/football-chairman-setup/raw/main/FootballChairmanDesktopSetup.exe)
 
 ## Notlar
 
-- latest.json dosyasi guncel setup metadata bilgisini icerir.
+- `latest.json` dosyasi guncel setup metadata bilgisini icerir.
 - Bu repo kaynak kod degil, sadece paylasilabilir installer yayini icin kullanilir.
+
