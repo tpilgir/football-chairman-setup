@@ -4,10 +4,10 @@ Bu repo sadece paylasilabilir Windows kurulum paketini icerir.
 
 ## Guncel Surum
 
-- Version: `0.17.4-beta1`
+- Version: `0.17.5-beta1`
 - Platform: `Windows`
-- SHA256: `fc4824bb4598c315e3d6dc59fdbfed513125751b8f355925ead8f51d19d1110a`
-- Updated (UTC): `2026-03-08T08:20:30Z`
+- SHA256: `4d5743b104df1cf77c6548d4c06e758017bfc3831984be6dbc790c64d5ce50a3`
+- Updated (UTC): `2026-03-08T08:31:03Z`
 
 ## Indirme
 
