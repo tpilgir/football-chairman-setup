@@ -1,8 +1,8 @@
 {
     "project":  "football-chairman",
-    "version":  "0.27.2",
+    "version":  "0.28.0",
     "filename":  "FootballChairmanDesktopSetup.exe",
-    "sha256":  "01d8107b8cd41b4d475e04cafdfff8c04b90a1a677c2a5c572fe71b937bdf1e0",
-    "source_commit":  "e8d9c0e594c544cf409229e93cb9a77732be1631",
-    "updated_at_utc":  "2026-03-08T19:34:22Z"
+    "sha256":  "c8b5550c8d001d9e60bb6ef02966483d23c6c3a9d3757c6b153f167242cca0e5",
+    "source_commit":  "65711d68202626c71d3e7150ad00e2ce70eef9a7",
+    "updated_at_utc":  "2026-03-08T20:08:39Z"
 }
