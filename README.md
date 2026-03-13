@@ -4,10 +4,10 @@ Bu repo sadece paylasilabilir Windows kurulum paketini icerir.
 
 ## Guncel Surum
 
-- Version: `0.34.0`
+- Version: `0.34.1`
 - Platform: `Windows`
-- SHA256: `7393913c10981ee6b43cc26990eb5b10c5ed187ac923ee6c11d86cb632d91c59`
-- Updated (UTC): `2026-03-11T20:45:00Z`
+- SHA256: `40fbfcf2e8ec4d024792231011d506bcaf3e6f8d9877c65310b4802ce2f1667f`
+- Updated (UTC): `2026-03-13T20:09:41Z`
 
 ## Indirme
 
@@ -17,3 +17,4 @@ Bu repo sadece paylasilabilir Windows kurulum paketini icerir.
 
 - `latest.json` dosyasi guncel setup metadata bilgisini icerir.
 - Bu repo kaynak kod degil, sadece paylasilabilir installer yayini icin kullanilir.
+
